@@ -36,6 +36,14 @@ window.PORTAL_DATA = {
         },
         {
           "category": "Wykłady",
+          "title": "Wprowadzenie i etapy projektowania urządzeń",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/uea1/wyklady/Wyklad_1_Wprowadzenie.pdf"
+        }
+        {
+          "category": "Wykłady",
           "title": "Komputerowe projektowanie i symulacja",
           "description": "",
           "type": "PDF",
@@ -58,14 +66,6 @@ window.PORTAL_DATA = {
           "published": true,
           "path": "materialy/uea1/wyklady/Wyklad_4_Kondycjonowanie_sygnalow.pdf"
         },
-        {
-          "category": "Wykłady",
-          "title": "Wprowadzenie i etapy projektowania urządzeń",
-          "description": "",
-          "type": "PDF",
-          "published": true,
-          "path": "materialy/uea1/wyklady/Wyklad_1_Wprowadzenie.pdf"
-        }
       ]
     },
     {
