@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#142338" />
+  <meta name="description" content="Materiały do zajęć prowadzonych przez dr. inż. Pawła Strączyńskiego." />
+  <title>Materiały do zajęć · Paweł Strączyński</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <script defer src="assets/data.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#/" aria-label="Strona główna">
+        <span class="brand-logo" aria-hidden="true">P<span>.</span></span>
+        <span class="brand-text"><strong>Paweł Strączyński</strong><small>Politechnika Świętokrzyska</small></span>
+      </a>
+      <div class="sidebar-section-label">NAWIGACJA</div>
+      <nav id="main-nav" class="side-nav" aria-label="Nawigacja główna"></nav>
+      <div class="sidebar-section-label second-label">PRZEDMIOTY</div>
+      <nav id="subject-nav" class="side-nav subject-nav" aria-label="Lista przedmiotów"></nav>
+      <div class="side-bottom">
+        <span class="side-bottom-icon">↗</span>
+        <div><strong>Plan zajęć</strong><span>Semestr zimowy 2026/27</span></div>
+        <a href="https://plan.usos.tu.kielce.pl/lecturer/1554" target="_blank" rel="noopener noreferrer" aria-label="Otwórz plan zajęć USOS">Otwórz ↗</a>
+      </div>
+    </aside>
+    <div class="main-layout">
+      <header class="topbar">
+        <button class="icon-button mobile-menu" id="menu-toggle" aria-label="Otwórz menu" aria-expanded="false">☰</button>
+        <div class="breadcrumb" id="breadcrumb">Materiały / Strona główna</div>
+        <div class="top-actions">
+          <div class="search-wrap"><span class="search-icon">⌕</span><input id="global-search" type="search" placeholder="Szukaj materiałów..." aria-label="Szukaj materiałów" autocomplete="off" /><kbd>/</kbd></div>
+          <button class="icon-button theme-toggle" id="theme-toggle" title="Zmień motyw" aria-label="Zmień motyw">☾</button>
+        </div>
+      </header>
+      <main id="content" tabindex="-1"></main>
+      <footer class="footer"><span>© <span id="year"></span> dr inż. Paweł Strączyński</span><span>Politechnika Świętokrzyska</span></footer>
+    </div>
+  </div>
+  <div class="mobile-overlay" id="mobile-overlay"></div>
+</body>
+</html>
