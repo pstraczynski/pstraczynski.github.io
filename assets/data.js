@@ -27,14 +27,6 @@ window.PORTAL_DATA = {
       ],
       "materials": [
         {
-          "category": "Wykłady",
-          "title": "Materiały do wykładów",
-          "description": "Pliki zostaną udostępnione w tej sekcji.",
-          "type": "PDF",
-          "published": false,
-          "path": ""
-        },
-        {
           "category": "Materiały dodatkowe",
           "title": "Materiały dodatkowe",
           "description": "Pliki zostaną udostępnione w tej sekcji.",
