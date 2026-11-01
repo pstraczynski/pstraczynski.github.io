@@ -36,14 +36,6 @@ window.PORTAL_DATA = {
         },
         {
           "category": "Wykłady",
-          "title": "Wprowadzenie i etapy projektowania urządzeń",
-          "description": "",
-          "type": "PDF",
-          "published": true,
-          "path": "materialy/uea1/wyklady/Wyklad_1_Wprowadzenie.pdf"
-        }
-        {
-          "category": "Wykłady",
           "title": "Komputerowe projektowanie i symulacja",
           "description": "",
           "type": "PDF",
@@ -66,6 +58,14 @@ window.PORTAL_DATA = {
           "published": true,
           "path": "materialy/uea1/wyklady/Wyklad_4_Kondycjonowanie_sygnalow.pdf"
         },
+        {
+          "category": "Wykłady",
+          "title": "Wprowadzenie i etapy projektowania urządzeń",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/uea1/wyklady/Wyklad_1_Wprowadzenie.pdf"
+        }
       ]
     },
     {
@@ -82,28 +82,52 @@ window.PORTAL_DATA = {
       ],
       "materials": [
         {
-          "category": "Wykłady",
-          "title": "Materiały do wykładów",
-          "description": "Pliki zostaną udostępnione w tej sekcji.",
-          "type": "PDF",
-          "published": false,
-          "path": ""
-        },
-        {
-          "category": "Laboratoria",
-          "title": "Instrukcje laboratoryjne",
-          "description": "Pliki zostaną udostępnione w tej sekcji.",
-          "type": "PDF",
-          "published": false,
-          "path": ""
-        },
-        {
           "category": "Materiały dodatkowe",
           "title": "Materiały dodatkowe",
           "description": "Pliki zostaną udostępnione w tej sekcji.",
           "type": "PDF",
           "published": false,
           "path": ""
+        },
+        {
+          "category": "Wykłady",
+          "title": "Wprowadzenie do sieci przemysłowych",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/psk/wyklady/PSK_Wyklad_1_Wprowadzenie.pdf"
+        },
+        {
+          "category": "Wykłady",
+          "title": "Komunikacja szeregowa",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/psk/wyklady/PSK_Wyklad_2_Komunikacja_szeregowa.pdf"
+        },
+        {
+          "category": "Wykłady",
+          "title": "Protokół Modbus",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/psk/wyklady/PSK_Wyklad_3_Modbus.pdf"
+        },
+        {
+          "category": "Laboratoria",
+          "title": "Komunikacja szeregowa RS-485, protokół Modbus RTU",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/psk/laboratoria/PSK_Instrukcja_1_RS485_Modbus_RTU.pdf"
+        },
+        {
+          "category": "Laboratoria",
+          "title": "Modbus TCP i bramki Modbus TCP ↔ RTU",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/psk/laboratoria/PSK_Instrukcja_2_Modbus_TCP_bramki.pdf"
         }
       ]
     },
