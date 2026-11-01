@@ -44,6 +44,30 @@ window.PORTAL_DATA = {
         },
         {
           "category": "Wykłady",
+          "title": "Komputerowe projektowanie i symulacja",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/uea1/wyklady/Wyklad_2_KiCad_symulacja.pdf"
+        },
+        {
+          "category": "Wykłady",
+          "title": "Wzmacniacze operacyjne",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/uea1/wyklady/Wyklad_3_Wzmacniacze_operacyjne.pdf"
+        },
+        {
+          "category": "Wykłady",
+          "title": "Kondycjonowanie sygnałów czujników",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/uea1/wyklady/Wyklad_4_Kondycjonowanie_sygnalow.pdf"
+        },
+        {
+          "category": "Wykłady",
           "title": "Wprowadzenie i etapy projektowania urządzeń",
           "description": "",
           "type": "PDF",
