@@ -192,6 +192,30 @@ window.PORTAL_DATA = {
           "path": "materialy/spun/laboratoria/Podstawy-programowania-sterowników-Omron.pdf"
         },
         {
+          "category": "Laboratoria",
+          "title": "Podstawy tworzenia wizualizacji na panelach HMI Omron w środowisku CX-Designer",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/spun/laboratoria/Instrukcja lab2 PUSME.pdf"
+        },
+        {
+          "category": "Laboratoria",
+          "title": "Wyznaczanie przemieszczenia i prędkości napędu z wykorzystaniem enkodera oraz wizualizacja parametrów na panelu operatorskim NT2S",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/spun/laboratoria/Instrukcja lab3 PUSME.pdf"
+        },
+        {
+          "category": "Laboratoria",
+          "title": "Sterowanie silnikiem indukcyjnym poprzez komunikację Modbus między sterownikiem Omron CP1L a falownikiem Yaskawa V1000",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "materialy/spun/laboratoria/Instrukcja lab4 PUSME.pdf"
+        },
+        {
           "category": "Projekty",
           "title": "Pliki projektowe",
           "description": "Pliki zostaną udostępnione w tej sekcji.",
