@@ -185,11 +185,11 @@ window.PORTAL_DATA = {
       "materials": [
         {
           "category": "Laboratoria",
-          "title": "Instrukcje laboratoryjne",
-          "description": "Pliki zostaną udostępnione w tej sekcji.",
+          "title": "Podstawy programowania sterowników Omron CP1L w środowisku CX-Programmer",
+          "description": "",
           "type": "PDF",
-          "published": false,
-          "path": ""
+          "published": true,
+          "path": "materialy/spun/laboratoria/Podstawy-programowania-sterowników-Omron.pdf"
         },
         {
           "category": "Projekty",
