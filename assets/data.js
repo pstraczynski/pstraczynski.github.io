@@ -256,8 +256,8 @@ window.PORTAL_DATA = {
         },
         {
           "category": "Laboratoria",
-          "title": "Instrukcje laboratoryjne",
-          "description": "Wprowadzenie do wielozadaniowości w systemach czasu rzeczywistego",
+          "title": "Wprowadzenie do wielozadaniowości w systemach czasu rzeczywistego",
+          "description": "",
           "type": "PDF",
           "published": true,
           "path": "materialy/socr/laboratoria/SOCR_Instrukcja_1_Wielozadaniowosc_FreeRTOS.pdf"
