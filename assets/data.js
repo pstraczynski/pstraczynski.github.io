@@ -257,10 +257,10 @@ window.PORTAL_DATA = {
         {
           "category": "Laboratoria",
           "title": "Instrukcje laboratoryjne",
-          "description": "Pliki zostaną udostępnione w tej sekcji.",
+          "description": "SOCR_Instrukcja_1_Wielozadaniowosc_FreeRTOS.pdf",
           "type": "PDF",
-          "published": false,
-          "path": ""
+          "published": true,
+          "path": "materialy/socr/laboratoria/SOCR_Instrukcja_1_Wielozadaniowosc_FreeRTOS.pdf"
         },
         {
           "category": "Materiały dodatkowe",
