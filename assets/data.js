@@ -260,7 +260,23 @@ window.PORTAL_DATA = {
           "description": "",
           "type": "PDF",
           "published": true,
-          "path": "materialy/socr/laboratoria/SOCR_Instrukcja_1_Wielozadaniowosc_FreeRTOS.pdf"
+          "path": "socr/laboratoria/SOCR_Instrukcja_1_Wielozadaniowosc_FreeRTOS.pdf"
+        },
+        {
+          "category": "Laboratoria",
+          "title": "Mechanizmy synchronizacji i komunikacji w RTOS",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "socr/laboratoria/SOCR_Instrukcja_2_Synchronizacja_FreeRTOS.pdf"
+        },
+        {
+          "category": "Laboratoria",
+          "title": "Mini-projekt: system wbudowany pracujący pod kontrolą systemu czasu rzeczywistego",
+          "description": "",
+          "type": "PDF",
+          "published": true,
+          "path": "socr/laboratoria/SOCR_Instrukcja_3_Miniprojekt.pdf"
         },
         {
           "category": "Materiały dodatkowe",
